@@ -82,7 +82,7 @@
 .u-section-1 .u-image-1 {
   width: 450px;
   height: 450px;
-  background-image: url("images/LinkedinPhoto2.jpg");
+  background-image: url("/images/LinkedinPhoto2.jpg/");
   background-position: 50% 50%;
   margin: -442px 50px 0 auto;
 }
@@ -1327,7 +1327,7 @@
   margin-top: 0;
   margin-bottom: 0;
   width: 307px;
-  background-image: url("images/WebsiteDesign.jpg");
+  background-image: url("/images/WebsiteDesign.jpg/");
   background-position: 50% 50%;
 }
 
@@ -1359,7 +1359,7 @@
   margin-top: 0;
   margin-bottom: 0;
   width: 307px;
-  background-image: url("images/MobileApplications2.jpg");
+  background-image: url("/images/MobileApplications2.jpg/");
   background-position: 50% 50%;
 }
 
@@ -1391,7 +1391,7 @@
   margin-top: 0;
   margin-bottom: 0;
   width: 307px;
-  background-image: url("images/FileShare.jpg");
+  background-image: url("/images/FileShare.jpg/");
   background-position: 50% 50%;
 }
 
@@ -1423,7 +1423,7 @@
   margin-top: 0;
   margin-bottom: 0;
   width: 307px;
-  background-image: url("images/StaticWebApps.png");
+  background-image: url("/images/StaticWebApps.png/");
   background-position: 50% 50%;
 }
 
@@ -1455,7 +1455,7 @@
   margin-top: 0;
   margin-bottom: 0;
   width: 307px;
-  background-image: url("images/DNS.png");
+  background-image: url("/images/DNS.png/");
   background-position: 50% 50%;
 }
 
@@ -1487,7 +1487,7 @@
   margin-top: 0;
   margin-bottom: 0;
   width: 307px;
-  background-image: url("images/filecloud.jpg");
+  background-image: url("/images/filecloud.jpg/");
   background-position: 50% 50%;
 }
 
